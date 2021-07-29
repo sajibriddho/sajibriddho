@@ -38,3 +38,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sajibriddho/)
 
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:typetosarker@gmail.com)](mailto:typetosarker@gmail.com)
+<a href="https://www.linkedin.com/in/sajibriddho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sajibriddho)
+
