@@ -1,18 +1,40 @@
-<h2> Hey there! I'm Sajib.</h2> 
+<h2 align="center">Hey there! 👋 I'm Sajib Sarker</h2>
 
+<p align="center">
+  <i>Building modern, efficient, and user-friendly web apps.</i>
+</p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- 🤔 &nbsp; Exploring new technologies and developing web applications.
-- 💼 &nbsp; Working as a Jr. Full-stack developer at Wake Up ICT.
-- 🌱 &nbsp; Learning more about Data structures and Algorithms, Systems Design.
-- ✍️ &nbsp; Enjoying different places and new food items as hobbies.
+### 👨🏻‍💻 About Me
 
+- 🚀 Working as a **Software Developer**
+- 🧠 Currently exploring **modern software architecture**
+- 🛠️ Skilled in: **PHP**, **Laravel**, **CodeIgniter**, **Next.js**, **API development**
+- 🌱 Passionate about clean code, scalable systems, and continuous learning
+- 🌍 Love to travel and explore new cuisines 🍱 ✈️
 
+---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🧰 Tech Stack
+
+- 💻 **Languages:** PHP, JavaScript, SQL
+- 🧠 **Frontend:** Next.js, Tailwind CSS, Bootstrap, HTML, CSS
+- 🗄️ **Backend:** Laravel, CodeIgniter, REST APIs, MySQL
+- 🔧 **Tools:** Git, Postman, VS Code
+
+---
+
+### 📫 Connect With Me
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:typetosarker@gmail.com)](mailto:typetosarker@gmail.com)
 <a href="https://www.linkedin.com/in/sajibriddho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajibriddho&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 
 
